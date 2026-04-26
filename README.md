@@ -1,4 +1,6 @@
-  <h1 align="center">Hi 👋, I'm HARSH SAINI</h1>
+![logo](https://github.com/harshsaini02/harshsaini02/blob/main/banner.png)
+
+<h1 align="center">Hi 👋, I'm HARSH SAINI</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
@@ -24,7 +26,6 @@
 <p align="left">
 
 <!-- Row 1 -->
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" width="40"/>
@@ -32,7 +33,6 @@
 <br>
 
 <!-- Row 2 -->
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" width="40"/>
@@ -40,7 +40,6 @@
 <br>
 
 <!-- Row 3 -->
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
@@ -48,7 +47,6 @@
 <br>
 
 <!-- Row 4 -->
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
@@ -56,7 +54,6 @@
 <br>
 
 <!-- Row 5 -->
-
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
@@ -64,7 +61,6 @@
 <br>
 
 <!-- Row 6 -->
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
@@ -72,7 +68,6 @@
 <br>
 
 <!-- Row 7 -->
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
@@ -80,7 +75,6 @@
 <br>
 
 <!-- Row 8 -->
-
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
@@ -88,7 +82,6 @@
 <br>
 
 <!-- Row 9 -->
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
@@ -96,7 +89,6 @@
 <br>
 
 <!-- Row 10 -->
-
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
 <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
@@ -104,7 +96,6 @@
 <br>
 
 <!-- Row 11 -->
-
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
@@ -112,7 +103,6 @@
 <br>
 
 <!-- Row 12 -->
-
 <img src="https://bestofjs.org/logos/vuetify.svg" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40"/>
