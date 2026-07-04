@@ -21,24 +21,31 @@
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-
+<h3 align="left">🛠️ Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" alt="React"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" alt="Django"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="45" alt="Android"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" alt="MongoDB"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" alt="SQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" alt="Git"/>
+  <!-- Row 1 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python"/>
+  <br><br>
+
+  <!-- Row 2 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" alt="React"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" alt="Django"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" alt="Android"/>
+  <br><br>
+
+  <!-- Row 3 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" alt="MongoDB"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" alt="SQL"/>
+  <br><br>
+
+  <!-- Row 4 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" alt="Git"/>
   <img src="https://img.shields.io/badge/DSA-Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA"/>
 </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshsaini02&show_icons=true&locale=en&layout=compact" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshsaini02&show_icons=true&locale=en" /></p>
