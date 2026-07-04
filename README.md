@@ -11,7 +11,6 @@
 * 🌱 I’m currently learning **React,REST API**
 * 👨‍💻 All of my projects are available at https://harshsaini-portfoliolio-al4ih8p2x.vercel.app/
 * 📫 How to reach me **[harshsaini.rcp@gmail.com](mailto:harshsaini.rcp@gmail.com)**
-* 📄 Know about my experiences [file:///C:/Users/bestp/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/88678E875769A3D23BA9BF930300327C191922B5/transfers/2026-11/Harsh%20Saini%20(1).pdf](file:///C:/Users/bestp/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/88678E875769A3D23BA9BF930300327C191922B5/transfers/2026-11/Harsh%20Saini%20%281%29.pdf)
 * ⚡ Fun fact **I am funny😎**
 
 <h3 align="left">Connect with me:</h3>
